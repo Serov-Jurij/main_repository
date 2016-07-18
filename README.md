@@ -1,2 +1,3 @@
 # main_repository
-Main repository for any nonsystematic things.
+Репозиторий для всего.
+Здесь что-нибудь написано.
